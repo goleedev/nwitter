@@ -35,7 +35,7 @@ const AuthForm = () => {
                 <input
                     name="email"
                     type="email"
-                    placeholder="Email"
+                    placeholder="  Email"
                     required
                     value={email}
                     onChange={onChange}
@@ -44,7 +44,7 @@ const AuthForm = () => {
                 <input
                     name="password"
                     type="password"
-                    placeholder="Password"
+                    placeholder="  Password"
                     required
                     value={password}
                     onChange={onChange}
